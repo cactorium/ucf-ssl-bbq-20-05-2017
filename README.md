@@ -21,6 +21,7 @@ Lake Claire Pavilion (or the Arboretum Free Energy Pavilion) on May 20, 2017
 - [ ] Cron
 - [ ] Bell peppers
 - [ ] Pine apple
+- [ ] Poatoes
 - [ ] Fruit
 - [ ] Meat
 - [ ] Vegetables
